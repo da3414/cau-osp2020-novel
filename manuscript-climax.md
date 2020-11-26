@@ -264,8 +264,9 @@
 ```
 제리는 다리를 다쳤던 자신을 자책하고 있었다.
 제리는 절뚝거리며 생각했다. 
+
 <!-- 톰을 생각하는 제리 -->
-![image](https://user-images.githubusercontent.com/72140243/100351635-15118d00-302f-11eb-90ce-85d57ead6994.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/72140243/100351635-15118d00-302f-11eb-90ce-85d57ead6994.png" width="50%" height="50%">
 
 ```
 내가 좀만 더 조심했더라면 같이 돌아갈 수 있었을 텐데. 이대로 영영 톰을 못 보는 건 아니겠지? 어떻게 해야 되지..?
