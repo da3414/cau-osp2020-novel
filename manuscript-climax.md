@@ -273,7 +273,7 @@
 매번 톰에게 피해만 끼치는 것 같잖아... 나는 항상 왜 이럴까...
 ```
 <!-- 톰을 생각하는 제리 -->
-<p align="center"><imgsrc="https://user-images.githubusercontent.com/72140243/100354977-50628a80-3034-11eb-9f7d-13b5bb2e90a7.png" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/72140243/100354977-50628a80-3034-11eb-9f7d-13b5bb2e90a7.png" width="50%" height="50%">
 
 제리는 다리를 다쳤던 자신을 자책하고 있었다.
 제리는 절뚝거리며 생각했다. 
